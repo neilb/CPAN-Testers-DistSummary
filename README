@@ -1,0 +1,5 @@
+CPAN::Testers::DistSummary
+
+This is a quick module used to download the CPAN Testers results
+for a dist and provide summary information.
+
